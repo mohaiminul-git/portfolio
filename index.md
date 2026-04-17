@@ -1,9 +1,22 @@
 ---
-layout: home
-title: "Welcome"
+layout: default
+title: Home
 ---
 
-Hi, I'm Your Name 👋  
-Machine Learning Enthusiast
+# 👋 Hi, I'm Your Name
 
-Check out my projects below.
+ML Engineer | Python Developer | FastAPI Enthusiast
+
+---
+
+## 🚀 What I Do
+- Machine Learning models
+- Data pipelines
+- Backend APIs
+
+---
+
+## 📌 Quick Links
+- [About Me](about.md)
+- [Projects](projects.md)
+- [Contact](contact.md)
