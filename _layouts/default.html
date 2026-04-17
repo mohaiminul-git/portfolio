@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      padding: 0;
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+    header {
+      padding: 20px;
+      background: #111827;
+    }
+    nav a {
+      margin-right: 15px;
+      color: #38bdf8;
+      text-decoration: none;
+    }
+    main {
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="/projects.html">Projects</a>
+    <a href="/contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+</body>
+</html>
