@@ -1,3 +1,9 @@
-title: Mohaiminul Islam
+title: Your Name
 description: ML Engineer Portfolio
 theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
