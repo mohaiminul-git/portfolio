@@ -5,18 +5,35 @@ title: Home
 
 # 👋 Hi, I'm Your Name
 
-ML Engineer | Python Developer | FastAPI Enthusiast
+ML Engineer | Python Developer | FastAPI Builder
 
 ---
 
-## 🚀 What I Do
-- Machine Learning models
-- Data pipelines
-- Backend APIs
+## 🚀 Featured Projects
+
+### 🔹 ML Pipeline System
+Built end-to-end ML pipeline with data validation, training, and deployment.
+
+👉 Tech: Python, Scikit-learn, FastAPI  
+👉 [GitHub](https://github.com/your-repo)
 
 ---
 
-## 📌 Quick Links
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Contact](contact.md)
+### 🔹 Data Analysis Dashboard
+Exploratory data analysis with visual insights.
+
+👉 Tech: Pandas, Matplotlib  
+👉 [GitHub](https://github.com/your-repo)
+
+---
+
+### 🔹 REST API for ML Model
+Deployed ML model using FastAPI.
+
+👉 Tech: FastAPI, Docker  
+👉 [GitHub](https://github.com/your-repo)
+
+---
+
+## 📌 More Projects
+👉 See full list → [Projects Page](projects.md)
